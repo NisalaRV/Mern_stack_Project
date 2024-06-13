@@ -10,7 +10,7 @@ const Home: React.FC = () => {
         >
             <div className="flex items-center justify-center h-full">
                 <div className="text-center text-white p-5 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-                    <h1 className="text-3xl sm:text-5xl md:text-6xl font-serif">
+                    <h1 className="text-2xl sm:text-5xl md:text-6xl font-serif">
                         Welcome Latte Korea
                     </h1>
                     <h3 className="text-lg sm:text-3xl md:text-4xl font-serif mt-4">
